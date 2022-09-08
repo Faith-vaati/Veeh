@@ -1,11 +1,13 @@
-<!DOCTYPE html>
-<html>
-<head>
-	<meta charset="utf-8">
-	<meta name="viewport" content="width=device-width, initial-scale=1">
-	<title></title>
-</head>
-<body>
+<br><br>
 
-</body>
+ 
+<br><br>
+</div>
+<?php
+include "sidebar.php";
+?>
+</div style>
+<br><br>
+All rights reserved. Copyright &copy <?php echo date("Y");?>
+<center>
 </html>
