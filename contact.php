@@ -1,15 +1,10 @@
-<!DOCTYPE html>
-<html>
-<head>
-	<meta charset="utf-8">
-	<meta name="viewport" content="width=device-width, initial-scale=1">
-	<title>
-	https://www.favicon.cc/
-	Reach out to us	
+<?php
+include "includes/header.php";
+?>
+Welcome to Dashboard
 
-	</title>
-</head>
-<body>
+
+
 <form>
   <label for="fname">First name:</label><br>
   <input type="text" id="fname" name="fname"><br>
@@ -22,5 +17,9 @@
   <label for="career">Career:</label><br>
   <input type="text" id="career" name="career">
 </form>
-</body>
-</html>
+
+
+<?php
+include "includes/footer.php";
+?>
+

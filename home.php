@@ -1,11 +1,10 @@
-<!DOCTYPE html>
-<html>
-<head>
-	<meta charset="utf-8">
-	<meta name="viewport" content="width=device-width, initial-scale=1">
-	<title> Welcome</title>
-</head>
-<body>
+<?php
+include "includes/header.php";
+?>
+Welcome to Dashboard
 
-</body>
-</html>
+
+<?php
+include "includes/footer.php";
+?>
+

@@ -1,11 +1,10 @@
- <!DOCTYPE html>
- <html>
- <head>
- 	<meta charset="utf-8">
- 	<meta name="viewport" content="width=device-width, initial-scale=1">
- 	<title>Career Journey</title>
- </head>
- <body>
- 
- </body>
- </html>
+<?php
+include "includes/header.php";
+?>
+Welcome to Dashboard
+
+
+<?php
+include "includes/footer.php";
+?>
+
