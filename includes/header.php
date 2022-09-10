@@ -1,9 +1,8 @@
 <!DOCTYPE html>
 <html>
-
 <head>
   <title>My Sacco - 
-<?php
+<?php0S
   if($page=="hm"){echo "Home";}
    if($page=="ab"){echo "About";}
     if($page=="cr"){echo "Career";}
