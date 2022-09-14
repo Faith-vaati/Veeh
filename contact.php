@@ -18,7 +18,7 @@ Welcome to Dashboard
      <tr><td>Mobile no.:</td><td><input type="text" name="mobno"></td></tr>
      <tr><td>Address:</td><td><textarea name="addr"></textarea></td></tr>
      <tr><td>Profile photo:</td><td><input type="file" name="photo"?></td></tr>
-     <tr><td colspan="2"><input type ="submit" name="sub" value="Register"></td></tr>
+     <tr><td colspan="2"><input type ="Send" name="sub" value="Register"></td></tr>
 
 </table>
 
