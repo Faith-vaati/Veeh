@@ -2,8 +2,7 @@
 include "includes/header.php";
 include "includes/menu.php";
 ?>
-Welcome to Dashboard
-
+Know us better
 
 <?php
 include "includes/footer.php";
