@@ -12,6 +12,7 @@
   <a href="about.php">About</a>
   <a href="contact">Contact</a>
   <a href="career">Career</a>
+  <a href="partner">Partnership</a>
 </div>
 
 <style type="text/css">
