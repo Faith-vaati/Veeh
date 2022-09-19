@@ -269,5 +269,7 @@ he alt attribute's text in the image tag is used for screen readers to improve a
 <!-- section element is used to element to separate a section of content from the future content. -->
 </section>
 <figure>
-  <!-- figure element represents self-contained content and will allow you to associate an image with a caption. -->
+<!-- figure element represents self-contained content and will allow you to associate an image with a caption. -->
+  <figcaption>
+  <!-- figcaption element is used to add a caption to describe the image contained within the figure element--></figcaption> 
 </figure>
