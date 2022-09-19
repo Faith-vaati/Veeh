@@ -276,3 +276,9 @@ he alt attribute's text in the image tag is used for screen readers to improve a
 <em>
   <!-- element is used to emphasize -->
 </em>
+<ol>
+  <!-- items are numbured -->
+</ol>
+<ul>
+  <!-- items are not numbured -->
+</ul>
