@@ -273,3 +273,6 @@ he alt attribute's text in the image tag is used for screen readers to improve a
   <figcaption>
   <!-- figcaption element is used to add a caption to describe the image contained within the figure element--></figcaption> 
 </figure>
+<em>
+  <!-- element is used to emphasize -->
+</em>
