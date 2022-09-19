@@ -266,5 +266,8 @@ he alt attribute's text in the image tag is used for screen readers to improve a
 
 
 <section>
-<!-- section element is used to element to separate the cat photos content from the future content. -->
+<!-- section element is used to element to separate a section of content from the future content. -->
 </section>
+<figure>
+  <!-- figure element represents self-contained content and will allow you to associate an image with a caption. -->
+</figure>
