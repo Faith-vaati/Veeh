@@ -282,3 +282,6 @@ he alt attribute's text in the image tag is used for screen readers to improve a
 <ul>
   <!-- items are not numbured -->
 </ul>
+<strong>
+  <!-- The strong element is used to indicate that some text is of strong importance or urgent. -->
+</strong>
