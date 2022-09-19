@@ -302,5 +302,10 @@ he alt attribute's text in the image tag is used for screen readers to improve a
   <!-- Use the button element to create a clickable button. For example, <button>Click Here</button> creates a button with the text Click Here.
 The default behavior of clicking a form button without any attributes submits the form to the location specified in the form's action attribute. -->
 </button>
- <input type="radio">
+ <input type="radio" id="" name="">
  <!-- You can use radio buttons for questions where you want only one answer out of multiple options. -->
+ <label>
+   <!-- label elements are used to help associate the text for an input element with the input element itself (especially for assistive technologies like screen readers). For example, <label><input type="radio"> cat</label> makes it so clicking the word cat also selects the corresponding radio button -->
+   <!-- The id attribute is used to identify specific HTML elements. Each id attribute's value must be unique from all other id values for the entire page.When elements have multiple attributes, the order of the attributes doesn't matter. -->
+   <!-- To make it so selecting one radio button automatically deselects the other, both buttons must have a name attribute with the same value. -->
+ </label>
