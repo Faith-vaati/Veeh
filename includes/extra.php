@@ -249,4 +249,22 @@ function showSlides(n) {
 
 
 
+<!-- Learning tips -->
 
+<main>
+  <!-- used to increase SEO accessibility -->
+</main>
+
+he alt attribute's text in the image tag is used for screen readers to improve accessibility and is displayed if the image fails to load.
+<img src="" alt="">
+<a href="" target="_blank">
+<!-- the blank attribute helps to open the link in a new tab-->
+
+<form>
+  <!-- it used to create a form -->
+</form>
+
+
+<section>
+<!-- section element is used to element to separate the cat photos content from the future content. -->
+</section>
