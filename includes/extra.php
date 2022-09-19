@@ -285,3 +285,22 @@ he alt attribute's text in the image tag is used for screen readers to improve a
 <strong>
   <!-- The strong element is used to indicate that some text is of strong importance or urgent. -->
 </strong>
+<form action="">
+  <!-- The action attribute indicates where form data should be sent. For example, <form action="/submit-url"></form> tells the browser that the form data should be sent to the path /submit-url. -->
+  <input type="" name="" placeholder="" required>
+  <!-- The input element allows you several ways to collect data from a web form. Like img elements, input elements are self-closing and do not need closing tags. -->
+
+  <!-- There are many kinds of inputs you can create using the type attribute. You can easily create a password field, reset button, or a control to let users select a file from their computer. -->
+
+  <!-- In order for a form's data to be accessed by the location specified in the action attribute, you must give the text field a name attribute and assign it a value to represent the data being submitted. For example, you could use the following syntax for an email address text field: <input type="text" name="email">. -->
+<!-- 
+  Placeholder text is used to give people a hint about what kind of information to enter into an input. For example, <input type="text" placeholder="Email address">. -->
+  <!-- To prevent a user from submitting your form when required information is missing, you need to add the required attribute to an input element. There's no need to set a value to the required attribute. Instead, just add the word required to the input element, making sure there is space between it and other attributes. -->
+</form>
+
+<button>
+  <!-- Use the button element to create a clickable button. For example, <button>Click Here</button> creates a button with the text Click Here.
+The default behavior of clicking a form button without any attributes submits the form to the location specified in the form's action attribute. -->
+</button>
+ <input type="radio">
+ <!-- You can use radio buttons for questions where you want only one answer out of multiple options. -->
