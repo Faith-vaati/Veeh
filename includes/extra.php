@@ -304,8 +304,17 @@ The default behavior of clicking a form button without any attributes submits th
 </button>
  <input type="radio" id="" name="">
  <!-- You can use radio buttons for questions where you want only one answer out of multiple options. -->
+  <!-- The id attribute is used to identify specific HTML elements. Each id attribute's value must be unique from all other id values for the entire page.When elements have multiple attributes, the order of the attributes doesn't matter. -->
+   <!-- To make it so selecting one radio button automatically deselects the other, both buttons must have a name attribute with the same value. -->
  <label>
    <!-- label elements are used to help associate the text for an input element with the input element itself (especially for assistive technologies like screen readers). For example, <label><input type="radio"> cat</label> makes it so clicking the word cat also selects the corresponding radio button -->
-   <!-- The id attribute is used to identify specific HTML elements. Each id attribute's value must be unique from all other id values for the entire page.When elements have multiple attributes, the order of the attributes doesn't matter. -->
-   <!-- To make it so selecting one radio button automatically deselects the other, both buttons must have a name attribute with the same value. -->
+  
  </label>
+ <fieldset>
+   <!-- The fieldset element is used to group related inputs and labels together in a web form. fieldset elements are block-level elements, meaning that they appear on a new line. -->
+ </fieldset>
+<legend>
+  <!-- The legend element acts as a caption for the content in the fieldset element. It gives users context about what they should enter into that part of the form. -->
+</legend>
+<meta charset="utf-8">
+<!-- One more thing. You should allow people to use their native language. Tell the browser to encode multiple languages by adding a meta element as a child of the head element. Set its charset attribute to UTF-8. -->
